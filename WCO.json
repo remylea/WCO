@@ -1,6 +1,6 @@
 {
 	"Name": "WCOBalancing",
-	"Version": 1791854777,
+	"Version": 1791856558,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Blight Serum Addon is Banned",
 	"Tiers": [
@@ -152,6 +152,10 @@
 				[
 					"277",
 					"213"
+				],
+				[
+					"157",
+					"317"
 				]
 			]
 		},
