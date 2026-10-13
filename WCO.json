@@ -1,6 +1,6 @@
 {
 	"Name": "WCOBalancing",
-	"Version": 1791786570,
+	"Version": 1791854777,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Blight Serum Addon is Banned",
 	"Tiers": [
@@ -57,6 +57,7 @@
 				"84",
 				"86",
 				"90",
+				"96",
 				"99",
 				"103",
 				"275",
@@ -189,7 +190,8 @@
 			],
 			"KillerIndvPerkBans": [
 				"170",
-				"181"
+				"181",
+				"317"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
@@ -299,6 +301,8 @@
 				"246",
 				"27",
 				"273",
+				"34",
+				"38",
 				"40",
 				"41",
 				"43",
@@ -317,6 +321,8 @@
 				"313",
 				"65",
 				"72",
+				"76",
+				"80",
 				"85",
 				"281",
 				"95",
@@ -327,6 +333,9 @@
 				"111",
 				"112",
 				"118",
+				"121",
+				"127",
+				"36",
 				"129"
 			],
 			"KillerIndvPerkBans": [],
@@ -4105,7 +4114,9 @@
 				855,
 				856,
 				857,
-				858
+				858,
+				845,
+				846
 			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
